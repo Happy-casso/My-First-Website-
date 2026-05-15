@@ -1,2 +1,2 @@
-# My-First-Website-
-Website for Hair Appointment 
+# My-First-Web Application-
+Hair Appointment Web App
